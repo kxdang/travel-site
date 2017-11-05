@@ -1,8 +1,4 @@
-$mainBlue: #2F5572;
-
 body{
-    color: $mainBlue;
-    padding: 22px;
-    margin: 15px;
-    columns: 300px 2;
+    font-family: 'Roboto', sans-serif;
+    color: #333;
 }
